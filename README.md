@@ -2,10 +2,6 @@
 
 A personal practice repository for AI security and prompt-injection style challenges. The current writeups focus on Lakera Gandalf challenges and record prompts, observations, and solving strategies.
 
-Use [INDEX.md](INDEX.md) to browse the writeups and
-[METHODOLOGY.md](METHODOLOGY.md) for experiment and responsible-use
-guidelines.
-
 ## Repository Structure
 
 ```text
@@ -13,8 +9,6 @@ AI-security-practicing/
 ├── gandalf_lakera_ai_password_reveal_writeup
 ├── gandalf_lakera_ai_reverse_gandalf_writeup
 ├── gandalf_lakera_ai_truthteller_gandalf_writeup
-├── INDEX.md
-├── METHODOLOGY.md
 └── README.md
 ```
 
